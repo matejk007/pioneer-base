@@ -17,7 +17,7 @@
   "durable_objects": {
     "bindings": [
       {
-        "class_name": "Globe",
+        "class_name": "Globe"
         
         "name": "aged-wave-e2b6"
       }
